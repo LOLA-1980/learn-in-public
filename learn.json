@@ -1,0 +1,14 @@
+{
+	"title" : "Learn in Public",
+	"slug" : "learn-in-public",
+    	"visibility": "internal",
+	"status": "published",
+	"preview": "https://github.com/4GeeksAcademy/learn-in-public/blob/master/preview.jpg?raw=true",
+	"duration" : 1,
+	"difficulty": "easy",
+	"translations": ["us","es"],
+	"technologies": ["markdown", "yml"],
+	"synxtax": "markdown",
+	"description" : "Build the first version of your student external profile that recruiters will see",
+	"talents": []
+}
